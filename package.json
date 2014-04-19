@@ -1,0 +1,27 @@
+{
+  "name": "loop-protect-esprima",
+  "version": "0.0.0",
+  "description": "Parser-based loop protection.",
+  "main": "loop-protect.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "escodegen": "~1.3.2",
+    "esprima": "~1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/loop-protect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nathanhammond/loop-protect-esprima.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanhammond/loop-protect-esprima/issues"
+  },
+  "homepage": "https://github.com/nathanhammond/loop-protect-esprima"
+}
